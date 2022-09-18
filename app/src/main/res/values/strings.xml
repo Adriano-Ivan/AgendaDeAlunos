@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alunos</string>
+    <string name="app_form_add_aluno">Adicione um aluno</string>
+    <string name="salvar">Salvar</string>
+    <string name="remover">Remover</string>
+    <string name="app_form_edit_aluno">Edite o aluno</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">Email</string>
+</resources>
